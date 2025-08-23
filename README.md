@@ -16,6 +16,12 @@
 3. Run the app:
    `npm run dev`
 
+Request new style Waveform ? if you know any good effect [drop a comment here ](https://github.com/gordon123/audio-visualizer-pro/issues/1)
+
+## Know issue
+- MP4 sound may have noise in the background, I have tried several time but I don't know how to fix it 😆 just mute it and use Video editor!
+- I develop this application by Gemini AI studio, I DON't Know coding!
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
