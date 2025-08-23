@@ -1,0 +1,5 @@
+{
+  "name": "Audio Visualizer Pro",
+  "description": "A standalone, client-side audio visualizer built with React, TypeScript, and the Web Audio API. Load audio via file, drag-and-drop, or URL, and watch real-time waveforms, spectrum bars, and radial displays. Customize colors, effects, and themes, and export your creations as high-quality WebM videos or PNG images.",
+  "requestFramePermissions": []
+}
