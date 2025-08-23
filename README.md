@@ -1,20 +1,21 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="560" alt="GHBanner" src="preview Style/visualizer-frame-2025-08-23T22_55_06.611Z.png" />
 </div>
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ZlpMsG2P97pJubZZFERzhqxsxtr3lUTa
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
 
-
-1. Install dependencies:
+1. Git clone this repo and install Node Js
+2. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
