@@ -5,6 +5,17 @@
 # Introduction
 This project is an interactive audio visualizer built with React and Vite. It renders real-time visualizations of audio input on a canvas, designed for performance, responsiveness, and easy customization. The codebase emphasizes modularity, with separate components for the canvas visualization, controls panel, theme handling, and transport bar, allowing developers to extend features such as additional visual styles, input sources, and export options.
 
+# 🎵 My Cool Project
+
+Check out the demo video below 👇
+
+[![Watch the video](https://img.youtube.com/vi/SD9Qy6dcUxg/maxresdefault.jpg)](https://youtu.be/SD9Qy6dcUxg)
+
+or click the button:
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://youtu.be/SD9Qy6dcUxg)
+
+
 Key goals:
 - Provide a visually engaging, real-time representation of audio data.
 - Offer a lightweight, extensible architecture suitable for experimentation and customization.
